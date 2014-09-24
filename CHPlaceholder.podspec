@@ -10,19 +10,16 @@
 Pod::Spec.new do |s|
   s.name             = "CHPlaceholder"
   s.version          = "0.1.0"
-  s.summary          = "A short description of CHPlaceholder."
+  s.summary          = "A customizable placeholder view that can be made programmatically or via IB with Xcode 6+."
   s.description      = <<-DESC
-                       An optional longer description of CHPlaceholder
-
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+                       A customizable placeholder view that can be made programmatically or via IB with Xcode 6+.
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/CHPlaceholder"
+  s.homepage         = "https://github.com/clockworx132/CHPlaceholder"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "clockworx132" => "heinsenc@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/CHPlaceholder.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/clockworx132/CHPlaceholder.git", :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/ChayelH'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
