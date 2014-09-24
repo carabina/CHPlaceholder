@@ -8,6 +8,8 @@ Copy CHPlaceholder.h/m to your project.
 
 ## Usage
 
+Open the provided project for reference if needed.
+
 ### Programatically
 
 	- (void)viewDidLoad {
