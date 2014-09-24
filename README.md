@@ -25,7 +25,7 @@ Copy CHPlaceholder.h/m to your project.
     [self.view addSubview:placeholder];
     
         // The other 320 x 320 box is made all in the IB.
-}
+	}
 
 ### Inferface Builder
 
