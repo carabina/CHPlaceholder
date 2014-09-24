@@ -1,10 +1,5 @@
 # CHPlaceholder
 
-[![CI Status](http://img.shields.io/travis/clockworx132/CHPlaceholder.svg?style=flat)](https://travis-ci.org/clockworx132/CHPlaceholder)
-[![Version](https://img.shields.io/cocoapods/v/CHPlaceholder.svg?style=flat)](http://cocoadocs.org/docsets/CHPlaceholder)
-[![License](https://img.shields.io/cocoapods/l/CHPlaceholder.svg?style=flat)](http://cocoadocs.org/docsets/CHPlaceholder)
-[![Platform](https://img.shields.io/cocoapods/p/CHPlaceholder.svg?style=flat)](http://cocoadocs.org/docsets/CHPlaceholder)
-
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
