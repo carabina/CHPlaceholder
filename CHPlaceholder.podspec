@@ -10,7 +10,7 @@
 Pod::Spec.new do |s|
   s.name             = "CHPlaceholder"
   s.version          = "0.1.0"
-  s.summary          = "A customizable placeholder view that can be made programmatically or via IB with Xcode 6+."
+  s.summary          = "A customizable placeholder view."
   s.description      = <<-DESC
                        A customizable placeholder view that can be made programmatically or via IB with Xcode 6+.
                        DESC
